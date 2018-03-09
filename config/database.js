@@ -1,4 +1,4 @@
 module.exports = {
-    path: 'mongodb://localhost:27017/meanauth',
+    path: 'mongodb://admin:root@ds259268.mlab.com:59268/meanauth',
     secret: 'yoursecret'
 }
